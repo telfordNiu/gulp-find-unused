@@ -1,6 +1,6 @@
 {
   "name": "gulp-find-unused",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "description": "use text match to find the files that are not used in project",
   "main": "index.js",
   "keywords": [
@@ -10,18 +10,18 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ireeoome/gulp-find-unused.git"
+    "url": "https://github.com/tceweb/gulp-find-unused.git"
   },
   "scripts": {
     "test": "make test"
   },
   "bugs": {
-    "url": "https://github.com/ireeoome/gulp-find-unused/issues"
+    "url": "https://github.com/tceweb/gulp-find-unused/issues"
   },
   "dependencies": {
     "through2": "^2.0.3",
     "gulp-util": "^3.0.8"
   },
-  "author": "Reeoo",
+  "author": "tcweb",
   "license": "MIT"
 }
