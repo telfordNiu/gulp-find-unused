@@ -2,7 +2,7 @@ let gUtil = require('gulp-util');
 let through = require('through2');
 let path = require('path');
 let fs = require('fs');
-const PLUGIN_NAME = "gulp-find-unused";
+const PLUGIN_NAME = "gulp-unusedfile-check";
 let debug;
 let ignoreList = [],
     fileList = [];
