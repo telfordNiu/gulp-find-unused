@@ -1,6 +1,6 @@
 {
   "name": "gulp-unusedfile-check",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "description": "unused file check tools, use text match to find the files that are not used in project",
   "main": "index.js",
   "keywords": [
